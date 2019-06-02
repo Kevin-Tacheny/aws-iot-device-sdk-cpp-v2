@@ -13,6 +13,7 @@
 
 * This file is generated
 */
+#include <assert.h>
 #include <aws/iotjobs/RejectedErrorCode.h>
 
 #include <aws/crt/StlAllocator.h>

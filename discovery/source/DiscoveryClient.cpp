@@ -13,6 +13,7 @@
 
 * This file is generated
 */
+#include <assert.h>
 #include <aws/discovery/DiscoveryClient.h>
 
 #include <aws/crt/Types.h>
